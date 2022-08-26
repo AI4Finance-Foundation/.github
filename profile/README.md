@@ -15,6 +15,4 @@
 
 "We can only see a short distance ahead, but we can see plenty there that needs to be done." — Alan Turing
 
-**Our Mission**: We believe AI4Finance will reshape our financial lives and the open-source community will make sure it's for the better.
-
-**Our Vision**: AI community has accumulated an open-source code ocean over the past decade. Applying these intellectual and engineering properties to finance will initiate a paradigm shift from the conventional trading routine to an automated machine learning approach, even RLOps in finance.
+We believe AI4Finance will reshape our financial lives and the open-source community will make sure it's for the better.
