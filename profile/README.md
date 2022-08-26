@@ -1,4 +1,4 @@
-## FinRL at AI4Finance Foundation 👋
+## AI4Finance Foundation 👋
 
 <!--
 
