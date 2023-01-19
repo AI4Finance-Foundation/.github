@@ -24,7 +24,7 @@ Dear open-source developpers,
 
 Thank you for your support!  
 
-If you expect a community to help maintain your open-source projects (under MIT Education License) in the intersection of AI/ML, data science, and finance. We welcome your donation.
+If you expect a community to help maintain your open-source projects (under MIT Education License) in the intersection of AI/ML, data science, and finance. You may donate your project to our AI4Finance community, and we will help with code maintenance.
 
 We are an [open finance community](https://openfin.engineering.columbia.edu/), running by an alliance among Columbia University, New York University, Princeton University, Purdue University, Northwesten University,...(the list is growing).  
 
