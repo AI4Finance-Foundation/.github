@@ -22,7 +22,9 @@ We believe AI4Finance will reshape our financial lives and the open-source commu
 
 Dear open-source developpers, 
 
-If you expect a community to help maintain your open-source projects in the intersection of AI/ML, data science, and finance. We welcome your donation.
+Thank you for your support!  
+
+If you expect a community to help maintain your open-source projects (under MIT Education License) in the intersection of AI/ML, data science, and finance. We welcome your donation.
 
 We are an [open finance community](https://openfin.engineering.columbia.edu/), running by an alliance among Columbia University, New York University, Princeton University, Purdue University, Northwesten University,...(the list is growing).  
 
