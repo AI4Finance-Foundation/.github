@@ -16,3 +16,8 @@
 "We can only see a short distance ahead, but we can see plenty there that needs to be done." — Alan Turing
 
 We believe AI4Finance will reshape our financial lives and the open-source community will make sure it's for the better.
+
+
+## Donate an open-source project to our AI4Finance community
+
+# Xiao-Yang: dear open-source developpers, if you expect a community to help maintain your open-source projects in the intersection of AI/ML, data science, and finance. We welcome your donation. We are an open finance community, running by an alliance among Columbia University, New York University, Princeton University, Purdue University, Northwesten University,...(the list is growing).  I look forward to working closely with you, learning from you, and exchanging information with you!
