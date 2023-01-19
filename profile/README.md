@@ -24,7 +24,7 @@ Dear open-source developpers,
 
 If you expect a community to help maintain your open-source projects in the intersection of AI/ML, data science, and finance. We welcome your donation.
 
-We are an open finance community, running by an alliance among Columbia University, New York University, Princeton University, Purdue University, Northwesten University,...(the list is growing).  
+We are an [open finance community](https://openfin.engineering.columbia.edu/), running by an alliance among Columbia University, New York University, Princeton University, Purdue University, Northwesten University,...(the list is growing).  
 
 I look forward to working closely with you, learning from you, and exchanging information with you!
 
