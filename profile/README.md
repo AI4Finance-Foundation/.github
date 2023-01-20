@@ -20,7 +20,7 @@ We believe AI4Finance will reshape our financial lives and the open-source commu
 
 ## Donate an open-source project to our AI4Finance community
 
-Dear open-source developpers, 
+Dear open-source developers, 
 
 Thank you for your support!  
 
