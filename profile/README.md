@@ -30,6 +30,8 @@ We are an [open finance community](https://openfin.engineering.columbia.edu/), r
 
 I look forward to working closely with you, learning from you, and exchanging information with you!
 
+**Disclaimer: Nothing herein is financial advice, and NOT a recommendation to trade real money. Please use common sense and always first consult a professional before trading or investing.**
+
 Sincerely,
 
 **Xiao-Yang**
