@@ -18,20 +18,20 @@
 We believe AI4Finance will reshape our financial lives and the open-source community will make sure it's for the better.
 
 
-## Donate an open-source project to our AI4Finance community
+## Maitain an open-source project at AI4Finance Foundation
 
-Dear open-source developers, 
+Dear developers, 
 
-Thank you for your support!  
+Thanks for your support!  
 
-If you expect a community to help maintain your open-source projects (under MIT Education License) in the intersection of AI/ML, data science, and finance. You may donate your project to our AI4Finance community, and we will help with code maintenance.
+If you are interested in working with an open-source community to maintain an open-source projects (under MIT Education License) in the intersection of AI/ML, data science, and finance. You may organize a small team at our AI4Finance Foundation, and we can work together on code maintenance.
 
 We are an [open finance community](https://openfin.engineering.columbia.edu/), running by an alliance among Columbia University, New York University, Princeton University, Purdue University, Northwesten University,...(the list is growing).  
 
-I look forward to working closely with you, learning from you, and exchanging information with you!
+We look forward to working closely with you, learning from you, and exchanging information with you!
 
 **Disclaimer: We are sharing codes for academic purpose udner the MIT education license. Nothing herein is financial advice, and NOT a recommendation to trade real money. Please use common sense and always first consult a professional before trading or investing.**
 
 Sincerely,
 
-**Xiao-Yang (Yanglet)**
+**Xiao-Yang (Yanglet), AI4Finance Foundation**
