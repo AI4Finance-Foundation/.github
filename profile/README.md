@@ -18,7 +18,7 @@
 We believe AI4Finance will reshape our financial lives and the open-source community will make sure it's for the better.
 
 
-## Maitain an open-source project at AI4Finance Foundation
+## Maintain an open-source project at AI4Finance Foundation
 
 Dear developers, 
 
