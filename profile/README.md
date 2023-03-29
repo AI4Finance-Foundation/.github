@@ -24,7 +24,7 @@ Dear developers,
 
 Thanks for your support!  
 
-If you are interested in working with an open-source community to maintain an open-source projects (under MIT Education License) in the intersection of AI/ML, data science, and finance. You may organize a small team at our AI4Finance Foundation, and we can work together on code maintenance.
+If you are interested in working with an open-source community to maintain open-source projects (under MIT Education License) in the intersection of AI/ML, data science, and finance. You may organize a small team at our AI4Finance Foundation, and we can work together on code maintenance.
 
 We are an [open finance community](https://openfin.engineering.columbia.edu/), running by an alliance among Columbia University, New York University, Princeton University, Purdue University, Northwesten University,...(the list is growing).  
 
