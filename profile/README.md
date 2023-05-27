@@ -22,7 +22,7 @@ We believe AI4Finance will reshape our financial lives and the open-source commu
 2. **Transparency and Trust:** Open-source allows playing with foundational codebase, thereby bolstering transparency and trust. 
 3. **Research and Innovation:** Open-source fuels progress in research and development.
 4. **Education:** Open-source serves as robust educational tools, presenting students and researchers with the prospect of exploring the complexities of FinTech through direct engagement with fully operational models.
-5. **Community Development and Collaborative Engagement:** Open-source endeavors generally reap the benefits of a heterogeneous, global community of contributors.
+5. **Community Development and Collaborative Engagement**
 
 ## Maintain an open-source project at AI4Finance Foundation
 
