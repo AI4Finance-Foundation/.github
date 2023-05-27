@@ -18,11 +18,11 @@
 We believe AI4Finance will reshape our financial lives and the open-source community will make sure it's for the better.
 
 ## Principals of AI4Finance Foundation
-1. Advancing Equal Opportunities via FinTech Democratization: Adopting an open-source methodology promotes universal accessibility to state-of-the-art technology.
-2. Cultivating Transparency and Trust: Open-source FinTech offers a comprehensive overview of their foundational codebase, thereby bolstering transparency and trust. 
-3. Accelerating Research and Innovation: The open-source model fuels progress in research and development within the AI domain.
-4. Enhancing Education: Open-source FinTech serves as robust educational tools, presenting students and researchers with the prospect of exploring the complexities of FinTech through direct engagement with fully operational models.
-5. Promoting Community Development and Collaborative Engagement: Open-source endeavors generally reap the benefits of a heterogeneous, global community of contributors.
+1. **Advancing Equal Opportunities via FinTech Democratization:** Adopting an open-source methodology promotes universal accessibility to state-of-the-art technology.
+2. **Cultivating Transparency and Trust:** Open-source FinTech offers a comprehensive overview of their foundational codebase, thereby bolstering transparency and trust. 
+3. **Accelerating Research and Innovation:** The open-source model fuels progress in research and development within the AI domain.
+4. **Enhancing Education:** Open-source FinTech serves as robust educational tools, presenting students and researchers with the prospect of exploring the complexities of FinTech through direct engagement with fully operational models.
+5. **Promoting Community Development and Collaborative Engagement:** Open-source endeavors generally reap the benefits of a heterogeneous, global community of contributors.
 
 ## Maintain an open-source project at AI4Finance Foundation
 
