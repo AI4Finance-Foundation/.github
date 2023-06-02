@@ -36,7 +36,7 @@ We are an [open finance community](https://openfin.engineering.columbia.edu/), r
 
 We look forward to working closely with you, learning from you, and exchanging information with you!
 
-**Disclaimer: We are sharing codes for academic purpose under the MIT education license. Nothing herein is financial advice, and NOT a recommendation to trade real money. Please use common sense and always first consult a professional before trading or investing.**
+**Disclaimer: We are sharing codes for academic purposes under the MIT education license. Nothing herein is financial advice, and NOT a recommendation to trade real money. Please use common sense and always first consult a professional before trading or investing.**
 
 Sincerely,
 
