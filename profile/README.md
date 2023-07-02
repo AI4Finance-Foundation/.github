@@ -40,4 +40,4 @@ We look forward to working closely with you, learning from you, and exchanging i
 
 Sincerely,
 
-**Xiao-Yang (Yanglet), Bruce Yang, AI4Finance Foundation**
+**Yanglet, Bruce Yang, AI4Finance Foundation**
