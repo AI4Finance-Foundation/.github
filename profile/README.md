@@ -17,6 +17,10 @@
 
 We believe AI4Finance will reshape our financial lives and the open-source community will make sure it's for the better.
 
+**"AI4Finance by the people, for the people."**
+
+
+
 ## Principles
 1. **Equal Opportunities via Democratization**: open-source enables universal accessibility to state-of-the-art technology.
 2. **Transparency and Trust:** Open-source allows playing with foundational codebase, thereby bolstering transparency and trust. 
