@@ -1,4 +1,4 @@
-## AI4Finance Foundation 👋
+## AI4Finance Foundation 🌐
 
 <!--
 
@@ -11,33 +11,33 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-"I visualise a time when we will be to robots what dogs are to humans, and I’m rooting for the machines." — Claude Shannon
+"I visualize a time when we will be to robots what dogs are to humans, and I’m rooting for the machines." — Claude Shannon
 
 "We can only see a short distance ahead, but we can see plenty there that needs to be done." — Alan Turing
 
-We believe AI4Finance will reshape our financial lives and the open-source community will make sure it's for the better.
+At AI4Finance, we envision a world where artificial intelligence redefines the financial landscape, and with the strength of the open-source community, we strive to ensure these changes are universally beneficial.
+
 
 **"AI4Finance by the people, for the people."**
 
+## Core Values
+1. **Equal Opportunities**: open-source enables universal accessibility to state-of-the-art technology.
+2. **Cultivating Trust through Transparency**: The ability to interact directly with the core codebase reinforces trust and transparency.
+3. **Empowering Research and Innovation:** Open-source fuels progress in research and development.
+4. **Education as Empowerment**: Open-source platforms act as dynamic educational tools, allowing enthusiasts to delve deep into the intricacies of FinTech by working with fully functional models.
+5. **Fostering Community Growth and Collaborative Endeavors**
 
-## Principles
-1. **Equal Opportunities via Democratization**: open-source enables universal accessibility to state-of-the-art technology.
-2. **Transparency and Trust:** Open-source allows playing with foundational codebase, thereby bolstering transparency and trust. 
-3. **Research and Innovation:** Open-source fuels progress in research and development.
-4. **Education:** Open-source serves as robust educational tools, presenting students and researchers with the prospect of exploring the complexities of FinTech through direct engagement with fully operational models.
-5. **Community Development and Collaborative Engagement**
+## Join Us in Our Open-Source Initiatives at AI4Finance Foundation
 
-## Maintain an open-source project at AI4Finance Foundation
+Esteemed Developers,
 
-Dear developers, 
+Your support has been invaluable!
 
-Thanks for your support!  
-
-If you are interested in working with an open-source community to maintain open-source projects (under MIT Education License) in the intersection of AI/ML, data science, and finance. You may organize a small team at our AI4Finance Foundation, and we can work together on code maintenance.
+If you want to work with an open-source community to maintain open-source projects (under an MIT Education License) in the intersection of AI/ML, data science, and finance. You may organize a small team at our AI4Finance Foundation, and we can work together on code maintenance.
 
 
 We look forward to working closely with you, learning from you, and exchanging information with you!
 
-**Disclaimer: We are sharing codes for academic purposes under the MIT education license. Nothing herein is financial advice, and NOT a recommendation to trade real money. Please use common sense and always first consult a professional before trading or investing.**
+**Disclaimer**: The codes provided herein are released for academic purposes under the MIT education license. They should not be construed as financial counsel or recommendations for live trading. It is imperative to exercise caution and consult with qualified financial professionals prior to any trading or investment actions.
 
 
