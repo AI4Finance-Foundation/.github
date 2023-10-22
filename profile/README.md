@@ -39,6 +39,8 @@ If you want to work with an open-source community to maintain open-source projec
 
 We look forward to working closely with you, learning from you, and exchanging information with you!
 
+Bruce Yang, Founder of AI4Finance-Foundation
+
 **Disclaimer**: The codes provided herein are released for academic purposes under the MIT education license. They should not be construed as financial counsel or recommendations for live trading. It is imperative to exercise caution and consult with qualified financial professionals prior to any trading or investment actions.
 
 
