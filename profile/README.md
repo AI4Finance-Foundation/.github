@@ -10,6 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+An open-source organization focused on advancing artificial intelligence (AI) in the field of finance.
 
 "I visualize a time when we will be to robots what dogs are to humans, and I’m rooting for the machines." — Claude Shannon
 
