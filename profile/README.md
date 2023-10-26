@@ -21,9 +21,10 @@ At AI4Finance, we envision a world where artificial intelligence redefines the f
 
 **"AI4Finance by the people, for the people."**
 
+## Core Values
+
 At AI4Finance Foundation, we deeply value diversity, equity, and inclusion (DEI), integrating these principles into every layer of our operations, community engagement, and strategic planning.
 
-## Core Values
 1. **Equal Opportunities**: open-source enables universal accessibility to state-of-the-art technology.
 2. **Cultivating Trust through Transparency**: The ability to interact directly with the core codebase reinforces trust and transparency.
 3. **Empowering Research and Innovation:** Open-source fuels progress in research and development.
