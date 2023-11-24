@@ -1,4 +1,4 @@
-📣 FinGPT Project 2024 Recruitment: Embark on a journey to redefine financial technology with AI. Be a part of the FinGPT revolution, shaping the future of finance.
+📣 **FinGPT Project 2024 Recruitment**: Embark on a journey to redefine financial technology with AI. Be a part of the FinGPT revolution, shaping the future of finance.
 
 ## AI4Finance Foundation 🌐
 
