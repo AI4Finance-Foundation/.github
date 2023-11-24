@@ -1,3 +1,5 @@
+📣 FinGPT Project 2024 Recruitment: Embark on a journey to redefine financial technology with AI. Be a part of the FinGPT revolution, shaping the future of finance.
+
 ## AI4Finance Foundation 🌐
 
 <!--
@@ -10,9 +12,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-📣📣📣📣 FinGPT Project 2024 Recruitment: Embark on a journey to redefine financial technology with AI. Be a part of the FinGPT revolution, shaping the future of finance.
-
 
 An open-source organization focused on advancing artificial intelligence (AI) in the field of finance.
 
