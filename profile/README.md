@@ -42,6 +42,9 @@ Your support has been invaluable!
 
 If you want to work with an open-source community to maintain open-source projects (under an MIT Education License) in the intersection of AI/ML, data science, and finance. You may organize a small team at our AI4Finance Foundation, and we can work together on code maintenance.
 
+**We aim to build a collaborative network that brings together academic scholars, financial professionals, and various companies. This initiative is tailored to support individuals, students, SMEs, and startups, focusing on reducing their initial operational expenses and facilitating a smoother entry into the AI industry.**
+
+
 
 We look forward to working closely with you, learning from you, and exchanging information with you!
 
