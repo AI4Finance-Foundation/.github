@@ -19,6 +19,10 @@ AI4Finance Foundation, recognized as a 501(c)(3) nonprofit entity, commits to th
 
 Currently, our libraries have garnered significant attention, with around 27,000 Github stars and reliance from tens of thousands of projects worldwide. 
 
+**Short-term Goal**: Enhance core libraries' usability, productivity, and performance. Increase adoption in open-source finance, maintain mature environments, and integrate key projects.
+
+**Long-term Goal**: Develop standardized tools and APIs for finance professionals. Expand our open-source toolkit beyond foundational elements.
+
 ## Core Values
 
 At AI4Finance Foundation, we deeply value diversity, equity, and inclusion (DEI), integrating these principles into every layer of our operations, community engagement, and strategic planning.
