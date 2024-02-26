@@ -13,7 +13,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-AI4Finance Foundation, recognized as a 501(c)(3) nonprofit entity, commits to the progressive enhancement of artificial intelligence within the financial sector. Our mission emphasizes the promotion of standardized practices and the development of open-source resources, benefiting both the research community and industry professionals. We stand at the forefront of fostering innovation and collaboration in the integration of AI technologies for financial applications.
+AI4Finance Foundation, recognized as a 501(c)(3) nonprofit entity, commits to the progressive enhancement of artificial intelligence within the financial sector. Our mission emphasizes the promotion of standardized practices and the development of open-source resources, benefiting both the research community and industry professionals.
+
+Currently, our libraries have garnered significant attention, with around 27,000 Github stars and reliance from tens of thousands of projects worldwide. 
 
 ## Core Values
 
