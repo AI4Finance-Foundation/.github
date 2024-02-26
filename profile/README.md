@@ -44,11 +44,9 @@ If you want to work with an open-source community to maintain open-source projec
 
 **We aim to build a collaborative network that brings together academic scholars, financial professionals, and various companies. This initiative is tailored to support individuals, students, SMEs, and startups, focusing on reducing their initial operational expenses and facilitating a smoother entry into the AI industry.**
 
-
-
 We look forward to working closely with you, learning from you, and exchanging information with you!
 
-Founders of AI4Finance-Foundation
+Founders, AI4Finance Foundation Inc.
 
 **Disclaimer**: The codes provided herein are released for academic purposes under the MIT education license. They should not be construed as financial counsel or recommendations for live trading. It is imperative to exercise caution and consult with qualified financial professionals prior to any trading or investment actions.
 
