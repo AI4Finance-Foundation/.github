@@ -1,4 +1,6 @@
+<!--
 📣 **FinGPT Project 2024 Recruitment**: Embark on a journey to redefine financial technology with AI. Be a part of the FinGPT revolution, shaping the future of finance. [**FinGPT Syllabus**](https://ai4finance-columbia.notion.site/FinGPT-Syllabus-6d187e65eaff4c28822ebd330f28159f)
+-->
 
 ## AI4Finance Foundation 🌐
 
