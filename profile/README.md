@@ -13,16 +13,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-An open-source organization focused on advancing artificial intelligence (AI) in the field of finance.
-
-"I visualize a time when we will be to robots what dogs are to humans, and I’m rooting for the machines." — Claude Shannon
-
-"We can only see a short distance ahead, but we can see plenty there that needs to be done." — Alan Turing
-
-At AI4Finance, we envision a world where artificial intelligence redefines the financial landscape, and with the strength of the open-source community, we strive to ensure these changes are universally beneficial.
-
-
-**"AI4Finance by the people, for the people."**
+AI4Finance Foundation, recognized as a 501(c)(3) nonprofit entity, commits to the progressive enhancement of artificial intelligence within the financial sector. Our mission emphasizes the promotion of standardized practices and the development of open-source resources, benefiting both the research community and industry professionals. We stand at the forefront of fostering innovation and collaboration in the integration of AI technologies for financial applications.
 
 ## Core Values
 
