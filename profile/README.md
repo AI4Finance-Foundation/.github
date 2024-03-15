@@ -17,7 +17,7 @@
 
 AI4Finance Foundation, recognized as a 501(c)(3) nonprofit entity, commits to the progressive enhancement of artificial intelligence within the financial sector. Our mission emphasizes the promotion of standardized practices and the development of open-source resources, benefiting both the research community and industry professionals.
 
-Currently, our libraries have garnered significant attention, with around 27,000 Github stars and reliance from tens of thousands of projects worldwide. 
+Currently, our libraries have garnered significant attention, with around 28,000 Github stars and reliance from tens of thousands of projects worldwide. 
 
 **Short-term Goal**: Enhance core libraries' usability, productivity, and performance. Increase adoption in open-source finance, maintain mature environments, and integrate key projects.
 
