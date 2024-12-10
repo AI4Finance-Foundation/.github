@@ -22,11 +22,12 @@
 
 AI4Finance Foundation, recognized as a 501(c)(3) nonprofit entity, commits to the progressive enhancement of artificial intelligence within the financial sector. Our mission emphasizes the promotion of standardized practices and the development of open-source resources, benefiting both the research community and industry professionals.
 
-Currently, our libraries have garnered significant attention, with around 28,000 Github stars and reliance from tens of thousands of projects worldwide. 
-
-**Short-term Goal**: Enhance core libraries' usability, productivity, and performance. Increase adoption in open-source finance, maintain mature environments, and integrate key projects.
-
-**Long-term Goal**: Develop standardized tools and APIs for finance professionals. Expand our open-source toolkit beyond foundational elements.
+As the world’s largest AI finance open-source community, here are our remarkable achievements:
+1️⃣ Page Views: Surpassing 30 million
+2️⃣ Downloads: Over 200,000
+3️⃣ GitHub Stars: Accumulated 33,000+
+4️⃣ Active Users: More than 500,000
+5️⃣ GitHub Ranking: Ranked #409 among 10,000 organizations worldwide
 
 ## Core Values
 
@@ -38,20 +39,6 @@ At AI4Finance Foundation, we deeply value diversity, equity, and inclusion (DEI)
 4. **Education as Empowerment**: Open-source platforms act as dynamic educational tools, allowing enthusiasts to delve deep into the intricacies of FinTech by working with fully functional models.
 5. **Fostering Community Growth and Collaborative Endeavors**
 
-## Join Us in Our Open-Source Initiatives at AI4Finance Foundation
-
-Esteemed Developers,
-
-Your support has been invaluable!
-
-If you want to work with an open-source community to maintain open-source projects (under an MIT Education License) in the intersection of AI/ML, data science, and finance. You may organize a small team at our AI4Finance Foundation, and we can work together on code maintenance.
-
-**We aim to build a collaborative network that brings together academic scholars, financial professionals, and various companies. This initiative is tailored to support individuals, students, SMEs, and startups, focusing on reducing their initial operational expenses and facilitating a smoother entry into the AI industry.**
-
-We look forward to working closely with you, learning from you, and exchanging information with you!
-
-Founders, AI4Finance Foundation Inc.
-
-**Disclaimer**: The codes provided herein are released for academic purposes under the MIT education license. They should not be construed as financial counsel or recommendations for live trading. It is imperative to exercise caution and consult with qualified financial professionals prior to any trading or investment actions.
+**Disclaimer**: The codes provided herein are released for academic purposes. They should not be construed as financial counsel or recommendations for live trading. It is imperative to exercise caution and consult with qualified financial professionals prior to any trading or investment actions.
 
 
