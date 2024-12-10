@@ -3,7 +3,7 @@
 -->
 
 <div align="center">
-<img align="center" width="30%" alt="image" src="https://github.com/AI4Finance-Foundation/FinGPT/assets/31713746/e0371951-1ce1-488e-aa25-0992dafcc139">
+<img align="center" width="20%" alt="image" src="https://github.com/AI4Finance-Foundation/FinGPT/assets/31713746/e0371951-1ce1-488e-aa25-0992dafcc139">
 </div>
 
 ##
@@ -23,11 +23,11 @@
 AI4Finance Foundation, recognized as a 501(c)(3) nonprofit entity, commits to the progressive enhancement of artificial intelligence within the financial sector. Our mission emphasizes the promotion of standardized practices and the development of open-source resources, benefiting both the research community and industry professionals.
 
 As the world’s largest AI finance open-source community, here are our remarkable achievements:
-1️⃣ Page Views: Surpassing 30 million
-2️⃣ Downloads: Over 200,000
-3️⃣ GitHub Stars: Accumulated 33,000+
-4️⃣ Active Users: More than 500,000
-5️⃣ GitHub Ranking: Ranked #409 among 10,000 organizations worldwide
+* 1️⃣ Page Views: Surpassing 30 million
+* 2️⃣ Downloads: Over 200,000
+* 3️⃣ GitHub Stars: Accumulated 33,000+
+* 4️⃣ Active Users: More than 500,000
+* 5️⃣ GitHub Ranking: Ranked #409 among 10,000 organizations worldwide
 
 ## Core Values
 
