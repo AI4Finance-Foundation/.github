@@ -25,9 +25,9 @@ AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](http
 As the world’s largest AI finance open-source community, here are our remarkable achievements:
 * 1️⃣ Page Views: Surpassing 30 million
 * 2️⃣ Downloads: Over 200,000
-* 3️⃣ GitHub Stars: Accumulated 33,000+
+* 3️⃣ GitHub Stars: Accumulated 37,000+
 * 4️⃣ Active Users: More than 500,000
-* 5️⃣ GitHub Ranking: Ranked #409 among 10,000 organizations worldwide
+* 5️⃣ GitHub Ranking: Ranked #372 among [10,000 organizations worldwide](https://gitstar-ranking.com/organizations?page=4)
 
 ## Core Values
 
