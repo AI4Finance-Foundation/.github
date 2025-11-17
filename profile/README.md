@@ -8,6 +8,10 @@
 ##
 📣 **2025-04-20**: AI4Finance Foundation Secures U.S. Trademark Registration for “AI4FINANCE”
 
+## 📄 AI4Finance Foundation Executive Overview
+[![Executive Overview](./executive_overview_cover.png)](./AI4Finance-Foundation-Executive-Overview.pdf)
+👉 Click the cover to view the full Executive Overview  
+👉 Or download directly: [AI4Finance-Foundation-Executive-Overview.pdf](./AI4Finance-Foundation-Executive-Overview.pdf)
 
 <!--
 
