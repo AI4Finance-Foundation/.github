@@ -5,8 +5,6 @@
 <img align="center" width="20%" alt="image" src="https://github.com/AI4Finance-Foundation/FinGPT/assets/31713746/e0371951-1ce1-488e-aa25-0992dafcc139">
 </div>
 
-##
-📣 **2025-04-20**: AI4Finance Foundation Secures U.S. Trademark Registration for “AI4FINANCE”
 
 ## 📄 AI4Finance Foundation Executive Overview
 [![Executive Overview](./executive_overview_cover.png)](./AI4Finance-Foundation-Executive-Overview.pdf)
@@ -23,6 +21,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+##
+📣 **2025-04-20**: AI4Finance Foundation Secures U.S. Trademark Registration for “AI4FINANCE”
 
 AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](https://apps.irs.gov/app/eos/) on Publication 78 data list, commits to the progressive enhancement of artificial intelligence within the financial sector. Our mission emphasizes the promotion of standardized practices and the development of open-source resources, benefiting both the research community and industry professionals.
 
