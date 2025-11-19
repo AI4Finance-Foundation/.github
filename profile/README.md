@@ -26,7 +26,7 @@ As the world’s largest AI finance open-source community, here are our remarkab
   ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=profile&countColor=%23B17A)
 
 
-[![Discord](https://img.shields.io/discord/1140122601746862181?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/trsr8SXpW5)
+[![Discord](https://dcbadge.vercel.app/api/server/trsr8SXpW5)](https://discord.gg/trsr8SXpW5)
 
 ## Core Values
 
