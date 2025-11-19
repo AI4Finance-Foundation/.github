@@ -24,7 +24,7 @@ AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](http
 </div>
 
 ##
-### News:
+### 🌟 News:
 📣 **2025-04-20**: AI4Finance Foundation Secures U.S. Trademark Registration for “AI4FINANCE”
 
 
@@ -39,6 +39,23 @@ AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](http
 | 👥 **Monthly Active Users** | 200,000+ |
 | 📦 **Total Repositories** | **42** |
 | 🏅 **GitHub Ranking** | #345 among [10,000 organizations worldwide](https://gitstar-ranking.com/organizations?page=4) |
+
+## 🚀 Featured Projects
+
+### Top 10 Repositories by Stars
+
+| Rank | Repository | Stars | Forks | Description | Language |
+|------|------------|-------|-------|-------------|----------|
+| 🥇 | [**FinGPT**](https://github.com/AI4Finance-Foundation/FinGPT) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT?style=social) | 2,551 | Open-Source Financial Large Language Models | Jupyter Notebook |
+| 🥈 | [**FinRL**](https://github.com/AI4Finance-Foundation/FinRL) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL?style=social) | 3,019 | Financial Reinforcement Learning Framework | Jupyter Notebook |
+| 🥉 | [**FinRobot**](https://github.com/AI4Finance-Foundation/FinRobot) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social) | 814 | AI Agent Platform for Financial Analysis using LLMs | Jupyter Notebook |
+| 4 | [**ElegantRL**](https://github.com/AI4Finance-Foundation/ElegantRL) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/ElegantRL?style=social) | 958 | Massively Parallel Deep Reinforcement Learning | Python |
+| 5 | [**FinRL-Trading**](https://github.com/AI4Finance-Foundation/FinRL-Trading) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL-Trading?style=social) | 823 | Trading Implementation with FinRL | Jupyter Notebook |
+| 6 | [**FinRL-Meta**](https://github.com/AI4Finance-Foundation/FinRL-Meta) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL-Meta?style=social) | 724 | Dynamic Datasets and Market Environments | Python |
+| 7 | [**FinNLP**](https://github.com/AI4Finance-Foundation/FinNLP) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinNLP?style=social) | 482 | Natural Language Processing for Finance | Python |
+| 8 | [**FinRL-Tutorials**](https://github.com/AI4Finance-Foundation/FinRL-Tutorials) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL-Tutorials?style=social) | 252 | Tutorials and Educational Resources | Jupyter Notebook |
+| 9 | [**FinRL_Podracer**](https://github.com/AI4Finance-Foundation/FinRL_Podracer) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL_Podracer?style=social) | 114 | Cloud-Native FinRL for Massively Parallel Simulations | Python |
+| 10 | [**Awesome_AI4Finance**](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/Awesome_AI4Finance?style=social) | 43 | Curated List of AI4Finance Resources | Markdown |
 
 As the world’s largest AI finance open-source community, here are our remarkable achievements:
 * 1️⃣ Page Views: Surpassing 30 million
