@@ -11,16 +11,6 @@
 👉 Click the cover to view the full Executive Overview  
 👉 Or download directly: [AI4Finance-Foundation-Executive-Overview.pdf](./AI4Finance-Foundation-Executive-Overview.pdf)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
 ##
 📣 **2025-04-20**: AI4Finance Foundation Secures U.S. Trademark Registration for “AI4FINANCE”
 
@@ -32,6 +22,8 @@ As the world’s largest AI finance open-source community, here are our remarkab
 * 3️⃣ GitHub Stars: Accumulated 43,000+
 * 4️⃣ Monthly Active Users: More than 200,000
 * 5️⃣ GitHub Ranking: Ranked #345 among [10,000 organizations worldwide](https://gitstar-ranking.com/organizations?page=4)
+
+  ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=profile&countColor=%23B17A)
 
 ## Core Values
 
