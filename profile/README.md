@@ -1,11 +1,3 @@
-
-
-
-<div align="center">
-<img align="center" width="20%" alt="image" src="https://github.com/AI4Finance-Foundation/FinGPT/assets/31713746/e0371951-1ce1-488e-aa25-0992dafcc139">
-</div>
-
-
 # 📄 AI4Finance Foundation Executive Overview
 <p align="center">
   <a href="./AI4Finance-Foundation-Executive-Overview.pdf">
