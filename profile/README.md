@@ -9,7 +9,7 @@
 # 📄 AI4Finance Foundation Executive Overview
 <p align="center">
   <a href="./AI4Finance-Foundation-Executive-Overview.pdf">
-    <img src="./executive_overview_cover.png" width="600">
+    <img src="./executive_overview_cover.png" width="800">
   </a>
 </p>
 
