@@ -38,8 +38,7 @@ AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](http
 | 🍴 **Total Forks** | **10,196** |
 | 👥 **Monthly Active Users** | 200,000+ |
 | 📦 **Total Repositories** | **42** |
-| 📊 **PyPI Downloads** | **81,970+** |
-| 🏅 **GitHub Ranking** | #345 among 10,000 organizations worldwide |
+| 🏅 **GitHub Ranking** | #345 among [10,000 organizations worldwide](https://gitstar-ranking.com/organizations?page=4) |
 
 As the world’s largest AI finance open-source community, here are our remarkable achievements:
 * 1️⃣ Page Views: Surpassing 30 million
