@@ -69,7 +69,23 @@ AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](http
 [![](https://dcbadge.limes.pink/api/server/trsr8SXpW5)](https://discord.gg/trsr8SXpW5)
 
 
+<div align="center">
 
+### 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AI4Finance-Foundation/FinGPT,AI4Finance-Foundation/FinRL,AI4Finance-Foundation/FinRobot,AI4Finance-Foundation/ElegantRL&type=Date)](https://star-history.com/#AI4Finance-Foundation/FinGPT&AI4Finance-Foundation/FinRL&AI4Finance-Foundation/FinRobot&AI4Finance-Foundation/ElegantRL&Date)
+
+---
+
+**Made with ❤️ by AI4Finance Foundation**
+
+[![GitHub](https://img.shields.io/badge/GitHub-AI4Finance--Foundation-181717?style=for-the-badge&logo=github)](https://github.com/AI4Finance-Foundation)
+
+*Last Updated: November 19, 2025*
+
+</div>
+
+<!-- 
 ## Core Values
 
 At AI4Finance Foundation, we deeply value diversity, equity, and inclusion (DEI), integrating these principles into every layer of our operations, community engagement, and strategic planning.
@@ -79,7 +95,8 @@ At AI4Finance Foundation, we deeply value diversity, equity, and inclusion (DEI)
 3. **Empowering Research and Innovation:** Open-source fuels progress in research and development.
 4. **Education as Empowerment**: Open-source platforms act as dynamic educational tools, allowing enthusiasts to delve deep into the intricacies of FinTech by working with fully functional models.
 5. **Fostering Community Growth and Collaborative Endeavors**
-
+ -->
+ 
 **Disclaimer**: The codes provided herein are released for academic purposes. They should not be construed as financial counsel or recommendations for live trading. It is imperative to exercise caution and consult with qualified financial professionals prior to any trading or investment actions.
 
 
