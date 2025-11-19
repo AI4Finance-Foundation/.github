@@ -27,6 +27,7 @@ As the world’s largest AI finance open-source community, here are our remarkab
 
 
 [![Discord](https://dcbadge.vercel.app/api/server/trsr8SXpW5)](https://discord.gg/trsr8SXpW5)
+[![Discord](https://img.shields.io/discord/1140122601746862181?logo=discord&label=Discord&color=5865F2)](https://discord.gg/trsr8SXpW5)
 
 ## Core Values
 
