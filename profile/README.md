@@ -7,7 +7,7 @@
 
 
 # 📄 AI4Finance Foundation Executive Overview
-[![Executive Overview](./executive_overview_cover.png)](./AI4Finance-Foundation-Executive-Overview.pdf)
+[<img src="./executive_overview_cover.png" width="260">](./AI4Finance-Foundation-Executive-Overview.pdf)
 👉 Click the cover to view the full Executive Overview  
 👉 Or download directly: [AI4Finance-Foundation-Executive-Overview.pdf](./AI4Finance-Foundation-Executive-Overview.pdf)
 
