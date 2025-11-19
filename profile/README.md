@@ -12,8 +12,17 @@
 👉 Or download directly: [AI4Finance-Foundation-Executive-Overview.pdf](./AI4Finance-Foundation-Executive-Overview.pdf)
 
 # 📊 AI4Finance Foundation - Statistics & Achievements
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-ai4finance.org-blue)](http://ai4finance.org)
+[![Email](https://img.shields.io/badge/Email-contact%40ai4finance.org-red)](mailto:contact@ai4finance.org)
+[![Twitter](https://img.shields.io/badge/Twitter-@AI4FinanceFound-1DA1F2)](https://twitter.com/AI4FinanceFound)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AI4Finance-0077B5)](https://www.linkedin.com/company/ai4finance-foundation)
+
+</div>
 
 ##
+News:
 📣 **2025-04-20**: AI4Finance Foundation Secures U.S. Trademark Registration for “AI4FINANCE”
 
 AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](https://apps.irs.gov/app/eos/) on Publication 78 data list, commits to the progressive enhancement of artificial intelligence within the financial sector. Our mission emphasizes the promotion of standardized practices and the development of open-source resources, benefiting both the research community and industry professionals.
@@ -28,14 +37,6 @@ As the world’s largest AI finance open-source community, here are our remarkab
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=profile&countColor=%23B17A)
 [![](https://dcbadge.limes.pink/api/server/trsr8SXpW5)](https://discord.gg/trsr8SXpW5)
 
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-ai4finance.org-blue)](http://ai4finance.org)
-[![Email](https://img.shields.io/badge/Email-contact%40ai4finance.org-red)](mailto:contact@ai4finance.org)
-[![Twitter](https://img.shields.io/badge/Twitter-@AI4FinanceFound-1DA1F2)](https://twitter.com/AI4FinanceFound)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AI4Finance-0077B5)](https://www.linkedin.com/company/ai4finance-foundation)
-
-</div>
 
 
 ## Core Values
