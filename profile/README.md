@@ -57,13 +57,13 @@ AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](http
 | 9 | [**FinRL_Podracer**](https://github.com/AI4Finance-Foundation/FinRL_Podracer) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL_Podracer?style=social) | 114 | Cloud-Native FinRL for Massively Parallel Simulations | Python |
 | 10 | [**Awesome_AI4Finance**](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/Awesome_AI4Finance?style=social) | 43 | Curated List of AI4Finance Resources | Markdown |
 
-As the world’s largest AI finance open-source community, here are our remarkable achievements:
-* 1️⃣ Page Views: Surpassing 30 million
-* 2️⃣ Downloads: Over 500,000
-* 3️⃣ GitHub Stars: Accumulated 43,000+
-* 4️⃣ Monthly Active Users: More than 200,000
-* 5️⃣ GitHub Ranking: Ranked #345 among [10,000 organizations worldwide](https://gitstar-ranking.com/organizations?page=4)
-
+## 🌐 Community & Engagement
+- **Followers**: 5,800+
+- **Contributors**: 100+
+- **Active Repositories**: 42
+- **Open Issues**: 500+ (community engagement)
+- **Total Commits**: 10,000+
+  
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=profile&countColor=%23B17A)
 [![](https://dcbadge.limes.pink/api/server/trsr8SXpW5)](https://discord.gg/trsr8SXpW5)
 
