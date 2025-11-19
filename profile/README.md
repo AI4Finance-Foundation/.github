@@ -23,9 +23,7 @@ As the world’s largest AI finance open-source community, here are our remarkab
 * 4️⃣ Monthly Active Users: More than 200,000
 * 5️⃣ GitHub Ranking: Ranked #345 among [10,000 organizations worldwide](https://gitstar-ranking.com/organizations?page=4)
 
-  ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=profile&countColor=%23B17A)
-
-
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=profile&countColor=%23B17A)
 [![](https://dcbadge.limes.pink/api/server/trsr8SXpW5)](https://discord.gg/trsr8SXpW5)
 
 
