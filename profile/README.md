@@ -12,6 +12,8 @@
 👉 Or download directly: [AI4Finance-Foundation-Executive-Overview.pdf](./AI4Finance-Foundation-Executive-Overview.pdf)
 
 # 📊 AI4Finance Foundation - Statistics & Achievements
+AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](https://apps.irs.gov/app/eos/) on Publication 78 data list, commits to the progressive enhancement of artificial intelligence within the financial sector. Our mission emphasizes the promotion of standardized practices and the development of open-source resources, benefiting both the research community and industry professionals.
+
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-ai4finance.org-blue)](http://ai4finance.org)
@@ -22,10 +24,22 @@
 </div>
 
 ##
-News:
+### News:
 📣 **2025-04-20**: AI4Finance Foundation Secures U.S. Trademark Registration for “AI4FINANCE”
 
-AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](https://apps.irs.gov/app/eos/) on Publication 78 data list, commits to the progressive enhancement of artificial intelligence within the financial sector. Our mission emphasizes the promotion of standardized practices and the development of open-source resources, benefiting both the research community and industry professionals.
+
+### 🏆 Key Achievements
+
+| Metric | Value |
+|--------|-------|
+| 🌐 **Page Views** | 30+ Million |
+| 📥 **Total Downloads** | 500,000+ |
+| ⭐ **Total GitHub Stars** | **48,388** |
+| 🍴 **Total Forks** | **10,196** |
+| 👥 **Monthly Active Users** | 200,000+ |
+| 📦 **Total Repositories** | **42** |
+| 📊 **PyPI Downloads** | **81,970+** |
+| 🏅 **GitHub Ranking** | #345 among 10,000 organizations worldwide |
 
 As the world’s largest AI finance open-source community, here are our remarkable achievements:
 * 1️⃣ Page Views: Surpassing 30 million
