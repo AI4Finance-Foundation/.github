@@ -25,8 +25,7 @@ As the world’s largest AI finance open-source community, here are our remarkab
 
   ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=profile&countColor=%23B17A)
 
-  [![Discord](https://img.shields.io/discord/1221411076960630886?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/trsr8SXpW5)
-
+[![Discord](https://discordapp.com/api/guilds/1140122601746862181/widget.png?style=banner1)](https://discord.gg/trsr8SXpW5)
 ## Core Values
 
 At AI4Finance Foundation, we deeply value diversity, equity, and inclusion (DEI), integrating these principles into every layer of our operations, community engagement, and strategic planning.
