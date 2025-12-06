@@ -65,8 +65,6 @@ AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](http
 - **Total Commits**: 10,000+
   
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=profile&countColor=%23B17A)
-[![](https://dcbadge.limes.pink/api/server/trsr8SXpW5)](https://discord.gg/trsr8SXpW5)
-
 [![](https://dcbadge.limes.pink/api/server/trsr8SXpW5?cb=1)](https://discord.gg/trsr8SXpW5)
 
 <p align="center">
