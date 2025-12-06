@@ -39,7 +39,7 @@ AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](http
 
 ## 🚀 Featured Projects
 
-### Top 10 Repositories by Stars
+### Top 8 Repositories by Stars
 
 | Rank | Repository | Stars | Forks | Description | Language |
 |------|------------|-------|-------|-------------|----------|
@@ -51,9 +51,10 @@ AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](http
 | 6 | [**FinRL-Meta**](https://github.com/AI4Finance-Foundation/FinRL-Meta) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL-Meta?style=social) | 724 | Dynamic Datasets and Market Environments | Python |
 | 7 | [**FinNLP**](https://github.com/AI4Finance-Foundation/FinNLP) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinNLP?style=social) | 482 | Natural Language Processing for Finance | Python |
 | 8 | [**FinRL-Tutorials**](https://github.com/AI4Finance-Foundation/FinRL-Tutorials) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL-Tutorials?style=social) | 252 | Tutorials and Educational Resources | Jupyter Notebook |
-| 9 | [**FinRL_Podracer**](https://github.com/AI4Finance-Foundation/FinRL_Podracer) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL_Podracer?style=social) | 114 | Cloud-Native FinRL for Massively Parallel Simulations | Python |
+<!-- | 9 | [**FinRL_Podracer**](https://github.com/AI4Finance-Foundation/FinRL_Podracer) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL_Podracer?style=social) | 114 | Cloud-Native FinRL for Massively Parallel Simulations | Python |
 | 10 | [**Awesome_AI4Finance**](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/Awesome_AI4Finance?style=social) | 43 | Curated List of AI4Finance Resources | Markdown |
-
+ -->
+ 
 ## 🌐 Community & Engagement
 - **Followers**: 5,800+
 - **Discord Members**: 3,714+
