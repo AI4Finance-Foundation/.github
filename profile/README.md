@@ -67,6 +67,8 @@ AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](http
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=profile&countColor=%23B17A)
 [![](https://dcbadge.limes.pink/api/server/trsr8SXpW5)](https://discord.gg/trsr8SXpW5)
 
+[![](https://dcbadge.limes.pink/api/server/trsr8SXpW5?cb=1)](https://discord.gg/trsr8SXpW5)
+
 <p align="center">
   <img width="600" alt="Top 20 Contributor Countries in AI4Finance" src="https://github.com/user-attachments/assets/f4c8e085-d28b-47aa-a2b6-3d614449e0c4" />
 </p>
