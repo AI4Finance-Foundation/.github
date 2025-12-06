@@ -57,13 +57,16 @@ AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](http
 ## 🌐 Community & Engagement
 - **Followers**: 5,800+
 - **Discord Members**: 3,714+
-- **Contributors**: 100+
+- **Contributors**: 5,000+
+- **Top Contributor Countries**: 68+
 - **Active Repositories**: 42
 - **Open Issues**: 500+ (community engagement)
 - **Total Commits**: 10,000+
   
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=profile&countColor=%23B17A)
 [![](https://dcbadge.limes.pink/api/server/trsr8SXpW5)](https://discord.gg/trsr8SXpW5)
+
+<img width="5420" height="5470" alt="viz_v3_16_top20_pie_final" src="https://github.com/user-attachments/assets/10415812-d046-498a-804e-6bb7dba1915b" />
 
 
 <div align="center">
