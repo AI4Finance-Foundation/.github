@@ -58,7 +58,7 @@ AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](http
 ## 🌐 Community & Engagement
 - **Followers**: 5,800+
 - **Discord Members**: 3,714+
-- **Contributors**: 5,000+
+- **Contributors & Users**: 5,000+
 - **Top Contributor Countries**: 68+
 - **Active Repositories**: 42
 - **Open Issues**: 500+ (community engagement)
