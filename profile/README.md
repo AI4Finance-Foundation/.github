@@ -20,9 +20,10 @@ AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](http
 
 </div>
 
-##
-### 🌟 News:
-📣 **2025-04-20**: AI4Finance Foundation Secures U.S. Trademark Registration for “AI4FINANCE”
+### 🌟 News
+📣 **2025-04-20** — AI4FINANCE™ officially registered as a U.S. trademark.  
+🥋 **2017-11-27** — AI4Finance Foundation founded by Bruce Yang on Bruce Lee’s birthday.  
+Inspired by the philosophy “Be water, my friend,” the project began with just a few lines of code, embracing adaptability, openness, and continuous evolution.
 
 
 ### 🏆 Key Achievements
