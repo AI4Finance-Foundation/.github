@@ -45,8 +45,8 @@ Inspired by the philosophy “Be water, my friend,” the project began with jus
 | Rank | Repository | Stars | Forks | Description | Language |
 |------|------------|-------|-------|-------------|----------|
 | 🥇 | [**FinGPT**](https://github.com/AI4Finance-Foundation/FinGPT) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT?style=social) | 2,551 | Open-Source Financial Large Language Models | Jupyter Notebook |
-| 🥈 | [**FinRL**](https://github.com/AI4Finance-Foundation/FinRL) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL?style=social) | 3,019 | Financial Reinforcement Learning Framework | Jupyter Notebook |
-| 🥉 | [**FinRobot**](https://github.com/AI4Finance-Foundation/FinRobot) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social) | 814 | AI Agent Platform for Financial Analysis using LLMs | Jupyter Notebook |
+| 🥈 | [**FinRL**](https://github.com/AI4Finance-Foundation/FinRL) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL?style=social) | 3,019 | Financial Reinforcement Learning Framework | Python |
+| 🥉 | [**FinRobot**](https://github.com/AI4Finance-Foundation/FinRobot) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social) | 814 | AI Agent Platform for Financial Analysis using LLMs | Python |
 | 4 | [**ElegantRL**](https://github.com/AI4Finance-Foundation/ElegantRL) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/ElegantRL?style=social) | 958 | Massively Parallel Deep Reinforcement Learning | Python |
 | 5 | [**FinRL-Trading**](https://github.com/AI4Finance-Foundation/FinRL-Trading) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL-Trading?style=social) | 823 | Trading Implementation with FinRL | Jupyter Notebook |
 | 6 | [**FinRL-Meta**](https://github.com/AI4Finance-Foundation/FinRL-Meta) | ![Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL-Meta?style=social) | 724 | Dynamic Datasets and Market Environments | Python |
