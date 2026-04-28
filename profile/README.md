@@ -32,7 +32,7 @@ Inspired by the philosophy “Be water, my friend,” the project began with jus
 |--------|-------|
 | 🌐 **Page Views** | 30+ Million |
 | 📥 **Total Downloads** | 500,000+ |
-| ⭐ **Total GitHub Stars** | **50,179** |
+| ⭐ **Total GitHub Stars** | **52,579** |
 | 🍴 **Total Forks** | **10,196** |
 | 👥 **Monthly Active Users** | 200,000+ |
 | 📦 **Total Repositories** | **42** |
