@@ -11,6 +11,9 @@
 # 📊 AI4Finance Foundation - Statistics & Achievements
 AI4Finance Foundation, recognized as a [501(c)(3) nonprofit public charity](https://apps.irs.gov/app/eos/) on Publication 78 data list, commits to the progressive enhancement of artificial intelligence within the financial sector. Our mission emphasizes the promotion of standardized practices and the development of open-source resources, benefiting both the research community and industry professionals.
 
+AI4Finance Foundation was founded by Hongyang (Bruce) Yang, who currently serves as Founder & President.
+For collaboration opportunities, including research partnerships, open-source ecosystem development, industry engagement, and AI4Finance community initiatives, please contact Bruce via LinkedIn: https://www.linkedin.com/in/brucehy/.
+
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-ai4finance.org-blue)](http://ai4finance.org)
