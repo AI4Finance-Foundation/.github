@@ -39,7 +39,7 @@ Inspired by the philosophy “Be water, my friend,” the project began with jus
 | 🍴 **Total Forks** | **10,196** |
 | 👥 **Monthly Active Users** | 200,000+ |
 | 📦 **Total Repositories** | **42** |
-| 🏅 **GitHub Ranking** | #281 among [10,000 organizations worldwide](https://gitstar-ranking.com/organizations?page=4) |
+| 🏅 **GitHub Ranking** | #277 among [10,000 organizations worldwide](https://gitstar-ranking.com/organizations?page=3) |
 
 ## 🚀 Featured Projects
 
