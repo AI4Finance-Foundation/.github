@@ -78,10 +78,11 @@ Inspired by the philosophy “Be water, my friend,” the project began with jus
 
 
 <div align="center">
-
+<!--
 ### 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AI4Finance-Foundation/FinGPT,AI4Finance-Foundation/FinRL,AI4Finance-Foundation/FinRL-trading,AI4Finance-Foundation/FinRobot,AI4Finance-Foundation/ElegantRL&type=Date)](https://star-history.com/#AI4Finance-Foundation/FinGPT&AI4Finance-Foundation/FinRL&AI4Finance-Foundation/FinRL-trading&AI4Finance-Foundation/FinRobot&AI4Finance-Foundation/ElegantRL&Date)
+-->
 
 ---
 
