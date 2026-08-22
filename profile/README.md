@@ -36,11 +36,11 @@ Inspired by the philosophy “Be water, my friend,” the project began with jus
 |--------|-------|
 | 🌐 **Page Views** | 30+ Million |
 | 📥 **Total Downloads** | 500,000+ |
-| ⭐ **Total GitHub Stars** | **57,004** |
+| ⭐ **Total GitHub Stars** | **60,000** |
 | 🍴 **Total Forks** | **10,196** |
 | 👥 **Monthly Active Users** | 200,000+ |
 | 📦 **Total Repositories** | **42** |
-| 🏅 **GitHub Ranking** | #277 among [10,000 organizations worldwide](https://gitstar-ranking.com/organizations?page=3) |
+| 🏅 **GitHub Ranking** | #268 among [10,000 organizations worldwide](https://gitstar-ranking.com/organizations?page=3) |
 
 ## 🚀 Featured Projects
 
