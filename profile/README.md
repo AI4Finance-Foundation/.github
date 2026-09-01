@@ -73,7 +73,7 @@ Inspired by the philosophy “Be water, my friend,” the project began with jus
 [![](https://dcbadge.limes.pink/api/server/trsr8SXpW5?cb=1)](https://discord.gg/trsr8SXpW5)
 
 <p align="center">
-  <img width="600" alt="Top 30 Contributor Countries in AI4Finance" src="https://github.com/user-attachments/assets/f5cc8b47-e704-4f70-83b1-d3353a05d803" />
+  <img width="1200" alt="Top 30 Contributor Countries in AI4Finance" src="https://github.com/user-attachments/assets/f5cc8b47-e704-4f70-83b1-d3353a05d803" />
 </p>
 
 
