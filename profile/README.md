@@ -76,7 +76,10 @@ Inspired by the philosophy “Be water, my friend,” the project began with jus
   <img width="1200" alt="Top 30 Contributor Countries in AI4Finance" src="https://github.com/user-attachments/assets/33c4c9e0-be9c-4c1d-891a-9eaa2341d530" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img width="1200" alt="Top 30 Contributor Countries in AI4Finance" src="https://github.com/user-attachments/assets/9e4c3fda-2dda-4801-9e8a-8a4f345517ac" />
+</p>
+
 <!--
 ### 🌟 Star History
 
