@@ -61,7 +61,7 @@ Inspired by the philosophy “Be water, my friend,” the project began with jus
  -->
  
 ## 🌐 Community & Engagement
-- **Followers**: 6,400+
+- **Followers**: 6,800+
 - **Discord Members**: 3,800+
 - **Contributors & Users**: 10k+
 - **Top Contributor Countries**: 68+
